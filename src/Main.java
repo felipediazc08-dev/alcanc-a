@@ -19,7 +19,7 @@ public class Main {
                 3 Valor acumulado
                 4 Total del dinero
                 5 Meta de ahorro
-                6 finalizar accion6
+                6 finalizar accion
                 :
                 """);
         opcion = teclado.nextInt();
